@@ -3,7 +3,7 @@
 # Overview
 
 This repository contains multiple mini projects conducted to hone data science skills and concepts. In no particular order, each of the folders contain the following content:
-* Infential Statistics (Hospital Readmissions Rate, Average Human Temperature, Racial Discrimination in Job Applications)
+* Infential Statistics (Hospital Readmissions Rate, Average Human Temperature, Racial Discrimination)
 * Regression (Linear & Logistic)
 * JSON file Data Wrangling
 * API file Data Wrangling
