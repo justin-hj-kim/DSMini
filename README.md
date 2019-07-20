@@ -14,3 +14,4 @@ This repository contains multiple mini projects conducted to hone data science s
 8. [Logistic Regression](https://github.com/justin-hj-kim/Data_Science_Mini_Projects/blob/master/models/Mini_Project_Logistic_Regression.ipynb)
 9. [KMeans Clustering and PCA](https://github.com/justin-hj-kim/Data_Science_Mini_Projects/blob/master/models/Mini_Project_Clustering.ipynb)
 10. [Text Classification with Naive Bayes](https://github.com/justin-hj-kim/Data_Science_Mini_Projects/blob/master/models/Mini_Project_Naive_Bayes.ipynb)
+11. [PySpark with Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1913558367010578/3534786695286915/5585438367976791/latest.html)
